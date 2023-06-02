@@ -63,7 +63,8 @@
               "browserTarget": "EXAMENLEARECUS:build:production"
             },
             "development": {
-              "browserTarget": "EXAMENLEARECUS:build:development"
+              "browserTarget": "EXAMENLEARECUS:build:development",
+              "port": 3090
             }
           },
           "defaultConfiguration": "development"
@@ -94,5 +95,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "61ef20d8-0cfd-4217-bc94-55c47ccfc32d"
   }
 }

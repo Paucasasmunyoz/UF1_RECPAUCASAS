@@ -1,0 +1,1 @@
+Aquest és el nou contingut que vull escriure al fitxer.asd
